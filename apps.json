@@ -6,18 +6,18 @@
       "name": "MSM",
       "bundleIdentifier": "com.brellyyxx.MSM",
       "developerName": "brellyyxx",
-      "version": "Release",
+      "version": "1.0",
       "versionDate": "2026-09-26T17:08:45Z",
-      "downloadURL": "https://github.com/brellyyxx/MSM/releases/download/Release/msm_v1.0.ipa",
+      "downloadURL": "https://github.com/brellyyxx/MSM/releases/download/1.0/msm_v1.0.ipa",
       "localizedDescription": "MSM"
     },
     {
       "name": "Questify",
       "bundleIdentifier": "com.brellyyxx.Questify",
       "developerName": "brellyyxx",
-      "version": "Release",
+      "version": "1.0",
       "versionDate": "2026-09-27T12:47:40Z",
-      "downloadURL": "https://github.com/brellyyxx/Questify/releases/download/Release/Questify_v1.0.ipa",
+      "downloadURL": "https://github.com/brellyyxx/Questify/releases/download/1.0/Questify_v1.0.ipa",
       "localizedDescription": "Questify"
     },
     {
