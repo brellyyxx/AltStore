@@ -1,5 +1,5 @@
 {
-  "name": "brellyyxx",
+  "name": "Apps",
   "identifier": "com.brellyyxx.altstore",
   "apps": [
     {
@@ -10,15 +10,6 @@
       "versionDate": "2026-09-26T17:08:45Z",
       "downloadURL": "https://github.com/brellyyxx/MSM/releases/download/1.0/msm_v1.0.ipa",
       "localizedDescription": "MSM"
-    },
-    {
-      "name": "GTA6Countdown",
-      "bundleIdentifier": "com.brellyyxx.gta6countdown",
-      "developerName": "brellyyxx",
-      "version": "1.0",
-      "versionDate": "2026-09-26T17:08:45Z",
-      "downloadURL": "https://github.com/brellyyxx/GTA6Countdown/releases/download/1.0/GTA6Countdown.ipa",
-      "localizedDescription": "GTA6Countdown"
     },
     {
       "name": "Questify",
